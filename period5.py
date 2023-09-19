@@ -26,4 +26,4 @@ if (ai_selection == "Scissors"):
     if (player_selection == "Scissors"):
         print("Tie!")
     if (player_selection == "Rock"):
-        print("You WonR!")
+        print("You Won!")
